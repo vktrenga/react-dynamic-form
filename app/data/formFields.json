@@ -1,0 +1,24 @@
+[
+  {
+    "name": "fullName",
+    "label": "Full Name",
+    "type": "TEXT",
+    "defaultValue": "",
+    "required": true
+  },
+  {
+    "name": "email",
+    "label": "Email",
+    "type": "TEXT",
+    "defaultValue": "",
+    "required": true
+  },
+  {
+    "name": "gender",
+    "label": "Gender",
+    "type": "LIST",
+    "options": ["Male", "Female", "Other"],
+    "defaultValue": "Male",
+    "required": true
+  }
+]
