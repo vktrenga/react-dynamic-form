@@ -90,7 +90,3 @@ The main dynamic form is available at `/singup` route. Fields are defined in `ap
 ## Customization
 
 To add new field types, extend the `DynamicField.tsx` component with new cases in the switch statement.
-
-## License
-
-MIT
